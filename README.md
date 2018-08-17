@@ -9,6 +9,7 @@ Used React, Node.js, and Postgresql in order to create the project and deployed 
 - [ ] Allowing the website to detect multiple faces instead of just one
 - [ ] Feedback / Error message if registering or signin fails. 
 - [ ] Trimming for white spaces in username
+- [ ] Adding ability to change a forgotten password
 
 ![Alt text](Screenshots/Example.jpg?raw=true "Example of User signed in")
 ![Alt text](Screenshots/Signin.jpg?raw=true "Signin")
