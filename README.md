@@ -3,7 +3,7 @@
 Worked to teach myself fullstack development by creating this website. 
 Used Clarifai API in order to detect faces in an uploaded image URL. 
 
-Used React, Node.js, and Postgresql in order to create the project and deployed online on Heroku. [Here](https://smartbrainjwl.herokuapp.com/)
+Used React, Node.js, and Postgresql in order to create the project and deployed online on Heroku. [Here] (https://smartbrainjwl.herokuapp.com/) (Server may currently be down due to lack of traffic and reducing the usage of bills).
 
 ## Things to Improve on:
 - [ ] Allowing the website to detect multiple faces instead of just one
